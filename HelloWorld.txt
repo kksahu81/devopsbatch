@@ -1,2 +1,6 @@
 Hello Today is first session
+<<<<<<< HEAD
 seocndline
+=======
+Another line
+>>>>>>> bcbc7b2... added onemore line
