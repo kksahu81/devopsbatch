@@ -2,3 +2,5 @@ Hello Today is first session
 seocndline
 Another line
 today is 26Sept
+
+Fetch was successful and commited to local repo with merge command
